@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/visionthex/To-Do_List/blob/project/img/DisplayWebsite.png" alt="image1">
+  <img src="https://github.com/pratikshadudhane7378/To-do-list-task-2.git/project/img/Display Website.png" alt="![Display Website1](https://github.com/pratikshadudhane7378/To-do-list-task-2/assets/149560307/2c6ef9d6-f230-4767-8ae7-92b8087adf7b)
+"(https://github.com/pratikshadudhane7378/To-do-list-task-2/assets/149560307/f63c8a33-ff4d-4317-b6d4-db5f2839b90c)
+">
 </p>
 
 [![Version](https://img.shields.io/badge/version-v1.0-blue.svg)](https://github.com/visionthex/to-do-list/releases/tag/v1.0) [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](https://github.com/visionthex/to-do-list/blob/main/CONTRIBUTING.md)
